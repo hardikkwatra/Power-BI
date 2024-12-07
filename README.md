@@ -1,7 +1,3 @@
-Here’s a clean and professional markdown version of your project description for a **GitHub README** file.  
-
----
-
 # **Hotel Revenue and Trends Analysis**  
 
 [![Dashboard](https://img.shields.io/badge/View-Dashboard-blue?style=flat-square&logo=powerbi)](http://bit.ly/3O5WLoy)  
